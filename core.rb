@@ -1,5 +1,5 @@
 module QuickSand
-	@@core = proc {
+	CORE = proc {
 		class << self
 		
 			def version
